@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+*.pyc
+datasets/UrbanSound8K/
+checkpoints/
+logs/
+.DS_Store
+Thumbs.db
