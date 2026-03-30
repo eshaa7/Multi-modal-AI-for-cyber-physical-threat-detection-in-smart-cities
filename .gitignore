@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # --- NETWORK (Your Data) ---
 Train_Test_Network_dataset/
 *.csv
@@ -12,3 +13,13 @@ archive*/
 *.zip
 __pycache__/
 .ipynb_checkpoints/
+=======
+﻿.venv/
+__pycache__/
+*.pyc
+datasets/UrbanSound8K/
+checkpoints/
+logs/
+.DS_Store
+Thumbs.db
+>>>>>>> d393609e7aa003cfd2e6a1f03f75d064d571554d
