@@ -1,12 +1,14 @@
-# Python ignores
-__pycache__/
-*.py[cod]
-
-# Data ignores (Safety first!)
-*.zip
+# --- NETWORK (Your Data) ---
+Train_Test_Network_dataset/
 *.csv
-*_frames/
-extracted_frames/
 
-# Large models (Optional: only if you want to keep .pth local)
-# *.pth
+# --- VIDEO (Her Data) ---
+extracted_frames/
+archive*/
+*.png
+*.mp4
+
+# --- SHARED ---
+*.zip
+__pycache__/
+.ipynb_checkpoints/
