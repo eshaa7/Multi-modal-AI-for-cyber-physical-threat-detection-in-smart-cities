@@ -1,0 +1,12 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+
+# Data ignores (Safety first!)
+*.zip
+*.csv
+*_frames/
+extracted_frames/
+
+# Large models (Optional: only if you want to keep .pth local)
+# *.pth
