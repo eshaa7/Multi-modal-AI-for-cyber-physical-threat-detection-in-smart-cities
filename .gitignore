@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# --- NETWORK (Your Data) ---
+# --- NETWORK  ---
 Train_Test_Network_dataset/
 *.csv
 
-# --- VIDEO (Her Data) ---
+# --- VIDEO ---
 extracted_frames/
 archive*/
 *.png
@@ -22,4 +22,5 @@ checkpoints/
 logs/
 .DS_Store
 Thumbs.db
+
 >>>>>>> d393609e7aa003cfd2e6a1f03f75d064d571554d

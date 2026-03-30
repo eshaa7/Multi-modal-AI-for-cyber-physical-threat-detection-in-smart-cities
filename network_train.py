@@ -2,13 +2,13 @@
 UMTD-Net Network Module
 
 
-What it does:
-    1. Loads TON_IoT dataset from HuggingFace (30MB, auto download)
-    2. Cleans and preprocesses the data
-    3. Builds Transformer model (NetworkEncoder from paper)
-    4. Trains for 20 epochs with proper train/test split
-    5. Prints Accuracy, F1, AUC-ROC
-    6. Saves network_model.pth
+What we do:
+    1. Load TON_IoT dataset from HuggingFace (30MB, auto download)
+    2. Clean and preprocess the data
+    3. Build Transformer model (NetworkEncoder from paper)
+    4. Train for 20 epochs with proper train/test split
+    5. Print Accuracy, F1, AUC-ROC, Recall and Precision
+    6. Save network_model.pth
 """
 
 import os, time
