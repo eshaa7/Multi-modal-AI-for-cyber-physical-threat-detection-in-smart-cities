@@ -1199,22 +1199,6 @@ Bangalore – 562112, Karnataka, India
 
 ---
 
-## 📄 Citation
-
-If you use UMTD-Net in your research, please cite:
-
-```bibtex
-@inproceedings{umtdnet,
-  title={Multi-modal AI for Cyber-Physical Threat Detection in Smart Cities},
-  author={Ayesha and Sukaina Fatema and R K Gowri Priya and Deepika},
-  booktitle={IEEE Conference on Smart City Security},
-  year={2025},
-  organization={IEEE}
-}
-}
-```
-
----
 
 ## 📜 License
 
