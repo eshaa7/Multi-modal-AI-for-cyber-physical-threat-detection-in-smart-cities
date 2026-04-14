@@ -1173,7 +1173,7 @@ def __getitem__(self, idx):
 **Team Members:**
 - **Ayesha** · ENG23CY0007 · [ayeshayshu96@gmail.com](mailto:ayeshayshu96@gmail.com)
 - **Sukaina Fatema** · ENG23CY0038 · [sukainafatema34@gmail.com](mailto:sukainafatema34@gmail.com)
-- **** · ENG23CY0056 · [chandananatesh1@gmail.com](mailto:chandananatesh1@gmail.com)
+- **R K Gowri Priya** · ENG23CY0034 · [gowripriya9795@gmail.com](mailto:gowripriya9795@gmail.com)
 - **Gagana V** · ENG23CY0016 · [gaganagaganav2702@gmail.com](mailto:gaganagaganav2702@gmail.com)
 
 **Department:** Computer Science and Engineering (Cyber Security)  
