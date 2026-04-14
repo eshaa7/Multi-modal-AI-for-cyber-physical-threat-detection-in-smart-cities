@@ -1171,9 +1171,9 @@ def __getitem__(self, idx):
 ## 👥 Contributors
 
 **Team Members:**
-- **Tisha Runwal** · ENG23CY0042 · [tisharunwal@gmail.com](mailto:tisharunwal@gmail.com)
-- **Vaishnavi Shetty** · ENG23CY0045 · [vaishnaviapshetty@gmail.com](mailto:vaishnaviapshetty@gmail.com)
-- **Chandana A N** · ENG23CY0056 · [chandananatesh1@gmail.com](mailto:chandananatesh1@gmail.com)
+- **Ayesha** · ENG23CY0007 · [ayeshayshu96@gmail.com](mailto:ayeshayshu96@gmail.com)
+- **Sukaina Fatema** · ENG23CY0038 · [sukainafatema34@gmail.com](mailto:sukainafatema34@gmail.com)
+- **** · ENG23CY0056 · [chandananatesh1@gmail.com](mailto:chandananatesh1@gmail.com)
 - **Gagana V** · ENG23CY0016 · [gaganagaganav2702@gmail.com](mailto:gaganagaganav2702@gmail.com)
 
 **Department:** Computer Science and Engineering (Cyber Security)  
@@ -1204,12 +1204,13 @@ Bangalore – 562112, Karnataka, India
 If you use UMTD-Net in your research, please cite:
 
 ```bibtex
-@inproceedings{runwal2025umtdnet,
+@inproceedings{umtdnet,
   title={Multi-modal AI for Cyber-Physical Threat Detection in Smart Cities},
-  author={Runwal, Tisha and Shetty, Vaishnavi and Chandana, A.N. and Gagana, V.},
+  author={Ayesha and Sukaina Fatema and R K Gowri Priya and Deepika},
   booktitle={IEEE Conference on Smart City Security},
   year={2025},
   organization={IEEE}
+}
 }
 ```
 
@@ -1221,7 +1222,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **UCF-Crime Dataset:** Center for Research in Computer Vision, University of Central Florida
 - **UrbanSound8K:** Justin Salamon, New York University
@@ -1235,7 +1236,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For questions, collaborations, or dataset requests:
 
-📩 **Primary Contact:** Tisha Runwal ([tisharunwal@gmail.com](mailto:tisharunwal@gmail.com))  
+📩 **Primary Contact:** Ayesha ([ayeshayshu96@gmail.com](mailto:ayeshayshu96@gmail.com))  
 🏛️ **Institution:** Dayananda Sagar University  
 🔬 **Lab:** TTEH LAB
 
