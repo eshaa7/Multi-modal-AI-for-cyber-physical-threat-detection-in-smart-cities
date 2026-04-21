@@ -1268,7 +1268,7 @@ For questions, collaborations, or dataset requests:
 
 <div align="center">
 
-**Built with ❤️ for Safer Smart Cities**
+**Built for Safer Smart Cities**
 
 © 2025 TTEH LAB, Dayananda Sagar University. All Rights Reserved.
 
